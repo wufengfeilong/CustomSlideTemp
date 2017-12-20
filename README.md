@@ -1,5 +1,6 @@
  # CustomSlideTemperature
- 
+ [![Release](https://jitpack.io/v/wufengfeilong/CustomSlideTemp.svg)]
+(https://jitpack.io/#wufengfeilong/CustomSlideTemp)
  **1.Import** 
  
  Step 1. Add the JitPack repository to your build file.
